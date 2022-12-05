@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" build-on-make="true" name="MITE-ITE">
-    <output-path>$USER_HOME$/Desktop</output-path>
-    <root id="archive" name="MITE-ITE.jar">
-      <element id="module-output" name="MITE-ITE" />
-    </root>
-  </artifact>
-</component>
